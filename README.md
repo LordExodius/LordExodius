@@ -1,4 +1,4 @@
-I'm Oscar, a third-year CS + business student at Western University. Thanks for taking a look at my GitHub profile! 😄
+I'm Oscar, a third-year CS student at Western University. Thanks for taking a look at my GitHub profile! 😄
 
 Check out some of my projects pinned below, or my [website](http://awwscar.ca/) for other cool stuff.
 
