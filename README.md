@@ -1,6 +1,10 @@
-I'm Oscar, a third-year CS student at Western University. Thanks for taking a look at my GitHub profile! 😄
+Hello! 
+
+I'm Oscar, a computer science and business student at Western University. Thanks for stopping by! 😄
 
 Check out some of my projects pinned below, or my [website](http://awwscar.ca/) for other cool stuff.
+
+<sub>i am speed</sub>
 
 <img src="https://monkey-widget.vercel.app/api/user/exodius"/>
 
