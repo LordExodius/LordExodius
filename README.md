@@ -1,12 +1,12 @@
-### Hello! 
+<h3 align="center">hello!</h3>
 
-I'm Oscar, a Computer Science and Business student at Western University. Thanks for stopping by! 😄
+<p align="center"> I'm Oscar, a computer science and business student at Western University. Thanks for stopping by! 😄 </p>
 
-Check out some of my projects pinned below, or my [website](http://awwscar.ca/) for other cool stuff.
+<p align="center"> Check out some of my projects pinned below, or my [website](http://awwscar.ca/) for other cool stuff. </p>
 
-<sub>speed 🏃‍♂️💨</sub>
+<p align="center"><sub>live oscar radio feed! (if the icon is green) 📻🎵</sub></p>
 
-<img src="https://monkey-widget.vercel.app/api/user/exodius"/>
+<div align="center"><img src="https://now-playing-widget.vercel.app/api/user/Enroze"/></div>
 
 <!---
 LordExodius/LordExodius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
